@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCC001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0c85ee0c-d1f5-4a45-84ce-eac3b9d5a5d8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d8859d27-8f14-462f-8506-3e977d97bfc4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>d8859d27-8f14-462f-8506-3e977d97bfc4</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+</TestCaseEntity>
